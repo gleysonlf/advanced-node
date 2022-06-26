@@ -31,11 +31,19 @@
   "scripts": {
     "clean": "rimraf dist",
     "build": "npm run clean && tsc",
+    "lint": "eslint .",
+    "lint:fix": "npm run lint -- --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
     "@types/module-alias": "^2.0.1",
     "@types/node": "^18.0.0",
+    "@typescript-eslint/eslint-plugin": "^4.0.1",
+    "eslint": "^7.12.1",
+    "eslint-config-standard-with-typescript": "^21.0.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.0.0",
     "typescript": "^4.7.4"
   },
   "engines": {
