@@ -5,7 +5,7 @@
 
 # **Advanced Node**
 
-[![alt text](./public/img/logo-course.jpeg "Link para o treinamento")](https://www.udemy.com/course/nodejs-avancado/?referralCode=AF51096F87A7A9A81C5C)
+[![Link para o treinamento](https://rmanguinho.github.io/assets/clean-architecture.png)](https://www.udemy.com/course/nodejs-avancado/?referralCode=AF51096F87A7A9A81C5C)
 
 ---
 
